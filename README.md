@@ -1,2 +1,2 @@
-# Assignmentt-2
- Vecta corp website (4pages)
+# Assignment2
+ vectacorp web pages
